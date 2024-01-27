@@ -1,10 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/eEf93O-z)
-INFO5100 13737 Application Engineer & Dev SEC 05 Fall 2023 [BOS-2-TR]
-Assignment 3
-
-Team Members- Anisha Gandhi, Dhir Thacker, Deshna Shah
-Click Here
-
+INFO5100 13737 Application Engineer & Dev 
 
 Project Description:
 
@@ -66,16 +60,6 @@ Adding job listings with details that are visible to students and admin.
 Managing job postings.
 
 
-
-Class Diagram: Click Here
-
-
-
-Architecture Diagram: Click Here
-
-
-
-Glimpse of our UI:
 
 
 
